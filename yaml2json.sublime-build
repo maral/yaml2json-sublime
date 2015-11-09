@@ -1,0 +1,7 @@
+{
+	"cmd": ["yaml2json", "$file", ">", "${file_path}/${file_base_name}.json"],
+
+	"windows": {
+        "cmd": ["yaml2json.cmd", "$file", ">", "${file_path}/${file_base_name}.json"]
+    }
+}
