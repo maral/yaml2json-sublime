@@ -11,5 +11,4 @@ Features
 
 Requires
 --------
-- npm
 - yaml2json - Install via `npm install -g yaml2json`. See [yamltojson.com](http://yamltojson.com/) for more info.
